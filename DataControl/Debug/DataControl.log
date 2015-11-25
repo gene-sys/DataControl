@@ -1,0 +1,33 @@
+﻿Построение начато 18.02.2015 23:32:54.
+Проект "C:\Projects\DataControl\DataControl\DataControl.vcxproj" в узле 2 (целевые объекты build).
+InitializeBuildStatus:
+  Создание "Debug\DataControl.unsuccessfulbuild", так как было задано "AlwaysCreate".
+GenerateTargetFrameworkMonikerAttribute:
+Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+ClCompile:
+  Для всех выходных данных обновления не требуется.
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\DataControl.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /FUInterop\Interop.ADODB.2.7.dll /analyze- /errorReport:prompt DataControl.cpp /clr:nostdlib 
+  DataControl.cpp
+  Для всех выходных данных обновления не требуется.
+CoreResGen:
+  Для всех выходных данных обновления не требуется.
+Link:
+  c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Projects\DataControl\Debug\DataControl.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\DataControl.Form1.resources /ASSEMBLYRESOURCE:Debug\DataControl.Tables.resources /MANIFEST /ManifestFile:"Debug\DataControl.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Projects\DataControl\Debug\DataControl.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\AssemblyInfo.obj
+  Debug\DataAccessCtrl.obj
+  Debug\DataAccessMdl.obj
+  Debug\DataControl.obj
+  Debug\FrmBridge.obj
+  Debug\stdafx.obj
+  Debug\Tables.obj
+  "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+  DataControl.vcxproj -> C:\Projects\DataControl\Debug\DataControl.exe
+Manifest:
+  c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Projects\DataControl\Debug\DataControl.exe;#1" /manifest Debug\DataControl.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Файл "Debug\DataControl.unsuccessfulbuild" удаляется.
+  Обращение к "Debug\DataControl.lastbuildstate".
+Построение проекта "C:\Projects\DataControl\DataControl\DataControl.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:06.81
